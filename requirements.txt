@@ -1,0 +1,12 @@
+crewai[tools,agentops]==0.114.0
+langchain-openai==0.2.0
+langchain==0.3.0
+chromadb==0.5.23
+openai===1.61.0
+tavily-python==0.3.3
+yfinance==0.2.40
+sec-edgar-api==1.0.0
+pydantic==2.8.0
+streamlit==1.38.0
+python-dotenv==1.0.0
+agentops==0.3.0
